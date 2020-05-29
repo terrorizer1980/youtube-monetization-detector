@@ -1,0 +1,9 @@
+Random project thinking about trying to detect if a YouTube video is monetized in any way or not...
+
+Run the server
+
+Navigate to something like http://localhost:3000/?url=https://www.youtube.com/watch?v=MlQSCx2nsxo
+
+You'll see a screenshot output from the request, and in the LOG you'll see some details about youtube video ad requests..
+
+The general idea needs testing and refining....
